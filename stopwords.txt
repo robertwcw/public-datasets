@@ -958,6 +958,7 @@ welcome
 well
 went
 were
+weren
 weren't
 what
 what's
