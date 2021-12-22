@@ -178,6 +178,8 @@ interesting
 interests
 into
 is
+isn
+isn't
 it
 its
 itself
@@ -947,6 +949,7 @@ w
 want
 wants
 was
+wasn
 wasn't
 way
 we
