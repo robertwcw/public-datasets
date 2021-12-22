@@ -7,6 +7,7 @@ after
 again
 against
 ain
+ain't
 all
 almost
 alone
@@ -71,9 +72,11 @@ clear
 clearly
 come
 could
+couldn
 couldn't
 d
 did
+didn
 didn't
 differ
 different
@@ -990,7 +993,7 @@ without
 won't
 wonder
 would
-would
+wouldn
 wouldn't
 x
 y
