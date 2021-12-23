@@ -60,6 +60,7 @@ both
 but
 by
 c
+ca
 came
 can
 can't
@@ -151,6 +152,7 @@ grouped
 grouping
 groups
 h
+ha
 had
 has
 have
