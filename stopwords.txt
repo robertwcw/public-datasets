@@ -940,6 +940,7 @@ using
 usually
 uucp
 v
+ve
 value
 various
 very
@@ -947,6 +948,7 @@ via
 viz
 vs
 w
+wa
 want
 wants
 was
