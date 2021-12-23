@@ -84,6 +84,8 @@ different
 differently
 do
 does
+doesn
+doesn't
 don
 don't
 done
@@ -1006,6 +1008,9 @@ wouldn
 wouldn't
 x
 y
+ya
+yay
+ye
 yes
 yet
 you
